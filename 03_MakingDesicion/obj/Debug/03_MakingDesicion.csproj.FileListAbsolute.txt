@@ -1,0 +1,7 @@
+C:\Users\ayahm\OneDrive\Masaüstü\C# Eğitim\CSharpEgitimKampi\03_MakingDesicion\bin\Debug\03_MakingDesicion.exe.config
+C:\Users\ayahm\OneDrive\Masaüstü\C# Eğitim\CSharpEgitimKampi\03_MakingDesicion\bin\Debug\03_MakingDesicion.exe
+C:\Users\ayahm\OneDrive\Masaüstü\C# Eğitim\CSharpEgitimKampi\03_MakingDesicion\bin\Debug\03_MakingDesicion.pdb
+C:\Users\ayahm\OneDrive\Masaüstü\C# Eğitim\CSharpEgitimKampi\03_MakingDesicion\obj\Debug\03_MakingDesicion.csproj.AssemblyReference.cache
+C:\Users\ayahm\OneDrive\Masaüstü\C# Eğitim\CSharpEgitimKampi\03_MakingDesicion\obj\Debug\03_MakingDesicion.csproj.CoreCompileInputs.cache
+C:\Users\ayahm\OneDrive\Masaüstü\C# Eğitim\CSharpEgitimKampi\03_MakingDesicion\obj\Debug\03_MakingDesicion.exe
+C:\Users\ayahm\OneDrive\Masaüstü\C# Eğitim\CSharpEgitimKampi\03_MakingDesicion\obj\Debug\03_MakingDesicion.pdb
